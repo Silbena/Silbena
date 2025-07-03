@@ -1,7 +1,7 @@
 ﻿## Hi, I am Mary!
 🔮 I do Data Science.  
 🤖 Currently focus on Machine Learning and Deep Learning.  
-🧬 I study mRNA vaccines for COVID-19.  
+🧪 I study mRNA vaccines for COVID-19.  
 💻 Graduating Bioinformatics soon.
 
 ### Languages:
