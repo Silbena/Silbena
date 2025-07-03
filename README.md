@@ -1,4 +1,4 @@
-﻿## Hi, I am Mary!
+﻿## Hi, I am Maria!
 🔮 I do Data Science.  
 🤖 Currently focus on Machine Learning and Deep Learning.  
 🧪 I study mRNA vaccines for COVID-19.  
